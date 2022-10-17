@@ -7,13 +7,13 @@ class Professores extends React.Component
   {
     super(props);
     this.state = {
-      professores: []
+      cursos: []
     };
     this.updateProfs();
   }
   updateProfs()
   {
-    fetch('http://docente.ifsc.edu.br/arliones.hoeller/test.json',
+    fetch('cursos.json',
           {
             method: 'GET',
             cache: 'no-cache'
@@ -31,8 +31,8 @@ class Professores extends React.Component
     .then((contents) =>
       {
         console.log(contents);
-        console.log(this.state.professores);
-        this.setState({professores: contents});
+        console.log(this.state.cursos);
+        this.setState({cursos: contents.Cursos});
       })
     .catch((e) =>
       {
@@ -43,10 +43,10 @@ class Professores extends React.Component
   {
     return (
       <div>
-        <h1>Professores</h1>
+        <h1>CURSOS IFSC-SJ</h1>
         <ol>
-          {this.state.professores.map((prof) => (
-            <li key={prof.id}>{prof.name}</li>
+          {this.state.cursos.map((curso) => (
+            <li key={curso.ID}>{curso.nome}</li>
           ))}
         </ol>
       </div>

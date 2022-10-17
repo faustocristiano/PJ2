@@ -1,0 +1,282 @@
+{
+  
+    "Cursos": [
+        {
+            "ID": "0290",
+            "nome": "ENGENHARIA DE TELECOMUNICAÇÕES",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "Marcos",
+                "email": "engtelecom@ifsc.edu.br",
+                "fone": "(48) 3281-2850"
+            }
+            
+        },
+        {
+            "ID": "1649",
+            "nome": "CONFIGURAÇÃO DE REDES DE COMPUTADORES LINUX",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "2497",
+            "nome": "CONVERSAÇÃO EM ESPANHOL",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1826",
+            "nome": "ESPANHOL BÁSICO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1680",
+            "nome": "FORMAÇÃO BÁSICA EM DESENHO TÉCNICO AUXILIADO POR COMPUTADOR",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1458",
+            "nome": "INGLÊS PARA PROFESSORES DE INGLÊS",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1450",
+            "nome": "INSTALAÇÃO DE AQUECEDORES SOLARES TÉRMICOS PMCMV",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1648",
+            "nome": "INTRODUÇÃO AO CÁLCULO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "402",
+            "nome": "LICENCIATURA EM CIÊNCIAS DA NATUREZA COM HABILITAÇÃO EM QUÍMICA",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "PAULA ALVES DE AGUIAR",
+                "email": "licenciatura.sj@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "2498",
+            "nome": "LÍNGUA PORTUGUESA PARA ESTRANGEIROS: LÍNGUA E CULTURA",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1647",
+            "nome": "MATLAB BÁSICO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1480",
+            "nome": "NORMA NR-10 BAIXA TENSÃO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1720",
+            "nome": "OPERADOR DE COMPUTADOR PROEJA ENSINO MÉDIO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "SANDRA ALBUQUERQUE REIS FACHINELLO",
+                "email": "julie@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "3498",
+            "nome": "PORTUGUÊS PARA ESTRANGEIROS ",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1457",
+            "nome": "PREPARATÓRIO PARA TESTES DE PROFICIÊNCIA EM INGLÊS",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "",
+                "email": " ",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "2402",
+            "nome": "QUÍMICA",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "FRANCIANE DUTRA DE SOUZA",
+                "email": "licenciatura.sj@ifsc.edu.b5",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "2403",
+            "nome": "QUÍMICA",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "FRANCIANE DUTRA DE SOUZA",
+                "email": "licenciatura.sj@ifsc.edu.b5",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "112",
+            "nome": "TÉCNICO EM REFRIGERAÇÃO E AR CONDICIONADO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "GEORGE HENRY WOJCIKIEWICZ",
+                "email": "boabaid@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "1120",
+            "nome": "TÉCNICO EM REFRIGERAÇÃO E CLIMATIZAÇÃO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "GEORGE HENRY WOJCIKIEWICZ",
+                "email": "boabaid@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "609",
+            "nome": "TÉCNICO EM REFRIGERAÇÃO E CLIMATIZAÇÃO",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "GEORGE HENRY WOJCIKIEWICZ",
+                "email": "boabaid@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "111",
+            "nome": "TÉCNICO EM TELECOMUNICAÇÕES",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "CLEBER JORGE AMARAL",
+                "email": "tecnicotelecom@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "608",
+            "nome": "TÉCNICO EM TELECOMUNICAÇÕES",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "CLEBER JORGE AMARAL",
+                "email": "tecnicotelecom@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        },
+        {
+            "ID": "125",
+            "nome": "TÉCNICO EM TELECOMUNICAÇÕES COM ÊNFASE EM REDES",
+            "UCs": "uc.json",
+            "Coordenador":
+            {
+                "nome": "CLEBER JORGE AMARAL",
+                "email": "tecnicotelecom@ifsc.edu.br",
+                "fone": ""
+            }
+            
+        }
+        
+    ]
+}
